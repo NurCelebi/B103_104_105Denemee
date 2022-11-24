@@ -5,3 +5,4 @@ ucuncu gun
 yenisi egldi
 java
 github
+Git GitHub ucuncu gun ikinci deneme .... denem
